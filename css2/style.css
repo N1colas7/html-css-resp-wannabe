@@ -4,7 +4,6 @@
  
     .container{
         width: 768px;
-        display: block;
     }
 }
 /* 480 */
@@ -25,5 +24,8 @@
     }
     .why-us .col-left{
         width: 100%;
+    }
+    .why-us{
+        background-color: rgb(24 19 19);
     }
 }
