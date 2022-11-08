@@ -28,4 +28,7 @@
     .why-us{
         background-color: rgb(24 19 19);
     }
+    .steps, .why-us{
+        margin: 0;
+    }
 }
