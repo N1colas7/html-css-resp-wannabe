@@ -3,14 +3,14 @@
 @media screen and (max-width: 768px){
  
     .container{
-        width: 768px;
+        width: 100%;
     }
 }
 /* 480 */
 /* layout */
 @media screen and (max-width: 480px){
     .container{
-        width: 480px;
+        width: 100%;
     }
     .lessons .col{
         width: 77%;
@@ -19,10 +19,7 @@
         flex-direction: column;
         align-items: center;
     }
-    .steps .col{
-        width: 100%;
-    }
-    .why-us .col-left{
+    .steps .col, .why-us .col-left{
         width: 100%;
     }
     .why-us{
